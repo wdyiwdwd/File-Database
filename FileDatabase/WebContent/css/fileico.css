@@ -1,0 +1,74 @@
+.btn-circle {
+	width: 20px;
+	height: 20px;
+	text-align: center;
+	padding: 2px 0;
+	font-size: 12px;
+	line-height: 1.428571429;
+	border-radius: 10px;
+}
+.folder{
+	background:url('../img/folder-a0.png') no-repeat top;
+	width:125px;
+	height:150px;
+	border:none;
+	font-size: 10px;
+	font-weight: bottom;
+	float: left;
+}
+.folder:hover{
+	background:url('../img/folder-s0.png') no-repeat top;	
+}
+.file{
+	background:url('../img/file-a0.png') no-repeat top;
+	width:125px;
+	height:150px;
+	border:none;
+	font-size: 10px;
+	font-weight: bottom;
+	float: left;
+}
+.file:hover{
+	background:url('../img/file-s0.png') no-repeat top;	
+}
+.newFolder{
+	background:url('../img/new-a0.png') no-repeat top;
+	margin-top:20px;
+	margin-left:10px;
+	width:100px;
+	height:110px;
+	border:none;
+	font-size: 10px;
+	font-weight: bottom; 
+	float: left;
+	cursor:pointer;
+}
+.newFolder:hover{
+	background:url('../img/new-s0.png') no-repeat top;	
+}
+.filename_s{
+	word-wrap:break-word;
+	word-break:break-all;
+	margin-top:130px;
+	width: 90px;
+	text-align:center;
+	margin-left : 10px;
+	text-align:center;
+	margin-right :25px;
+}
+.filename{
+	word-wrap:break-word;
+	word-break:break-all !important;
+	margin-top:25px;
+	width: 90px;
+	text-align:center;
+	margin-left : 10px;
+	margin-right :25px;
+	position: relative;
+	display:none;
+}
+.cirlcebutton{
+	margin-top: 15px;
+	margin-left: 100px;
+	display: none;
+}

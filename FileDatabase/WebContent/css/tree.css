@@ -1,0 +1,10 @@
+@CHARSET "UTF-8";
+
+#tree{
+	margin-top:0%;
+	padding-top:10%;
+	padding-left:10%;
+	min-height:500px;
+	/*border:solid 1px red;*/
+	border-right:solid 2px #e5e5e5;
+}
